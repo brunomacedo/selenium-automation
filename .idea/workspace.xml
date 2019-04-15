@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02ce3086-a85a-4743-9f94-1229b92c7448" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/automacao$Automacao.ic" NAME="Automacao Coverage Results" MODIFIED="1555210392580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="automacao" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/vendedores/AdicionarVendedores.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/vendedores/AdicionarVendedor.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/passos/login/UsuarioLogado.java" />
+        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/AdicionarVendedor.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/passos/Vendedores.java" />
+        <option value="$PROJECT_DIR$/src/test/java/navegador/SeleniumDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/paginas/PaginaLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/passos/Login.java" />
+        <option value="$PROJECT_DIR$/propriedades/sistema" />
+        <option value="$PROJECT_DIR$/src/test/java/passos/Clientes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/CadastrarCliente.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/paginas/PaginaCadastro.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/paginas/loja/PaginaCadastro.java" />
+        <option value="$PROJECT_DIR$/src/test/java/robo/Robo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Automacao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/execucao/Automacao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/paginas/admin/PaginaCategorias.java" />
+        <option value="$PROJECT_DIR$/src/test/java/paginas/admin/PaginaCategoriasCadastro.java" />
+        <option value="$PROJECT_DIR$/src/test/java/passos/admin/Categorias.java" />
+        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/admin/CadastrarCategoria.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/paginas/admin/PaginaLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/passos/admin/Login.java" />
+        <option value="$PROJECT_DIR$/src/test/java/passos/loja/Home.java" />
+        <option value="$PROJECT_DIR$/src/test/java/passos/loja/Clientes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/paginas/loja/PaginaHome.java" />
+        <option value="$PROJECT_DIR$/src/test/java/paginas/loja/PaginaCadastroCliente.java" />
+        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/ComprarProduto.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/teste.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/paginas/loja/PaginaLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/passos/loja/Login.java" />
+        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/Login.feature" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="automacao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="45" />
+    <option name="width" value="1255" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="navegador" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555210630390" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/passos/login" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jonat\Documents\Projetos\Faculdade Impacta\Pós-Graduação\Automação de Testes de Software\Codigo\automacao\src\test\java\casos_de_testes\loja" />
+      <recent name="C:\Users\jonat\Documents\Projetos\Faculdade Impacta\Pós-Graduação\Automação de Testes de Software\Codigo\automacao\src\test\java\casos_de_testes\admin" />
+      <recent name="C:\Users\jonat\Documents\Projetos\Faculdade Impacta\Pós-Graduação\Automação de Testes de Software\Codigo\automacao\src\test\java\navegador" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="passos.loja" />
+      <recent name="paginas.loja" />
+      <recent name="passos.admin" />
+      <recent name="paginas.admin" />
+      <recent name="paginas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonat\Documents\Projetos\Faculdade Impacta\Pós-Graduação\Automação de Testes de Software\Codigo\automacao\src\test\java\casos_de_testes\loja" />
+      <recent name="C:\Users\jonat\Documents\Projetos\Faculdade Impacta\Pós-Graduação\Automação de Testes de Software\Codigo\automacao\src\test\java\navegador" />
+      <recent name="C:\Users\jonat\Documents\Projetos\Faculdade Impacta\Pós-Graduação\Automação de Testes de Software\Codigo\automacao\src\test\java\casos_de_testes" />
+      <recent name="C:\Users\jonat\Documents\Projetos\Qualificacao em Java\Projetos\automacao\drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.casos_de_testes.loja in automacao">
+    <configuration name="Feature: CadastrarCliente (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature" />
+      <option name="GLUE" value="passos.loja" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="automacao" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: CadastrarCliente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/Login.feature" />
+      <option name="GLUE" value="passos.loja" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="automacao" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in automacao (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in automacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automacao" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="automacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="execucao" />
+      <option name="MAIN_CLASS_NAME" value="execucao.Automacao" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="casos_de_testes.loja in automacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="casos_de_testes.loja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="casos_de_testes.loja" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.casos_de_testes.loja in automacao" />
+        <item itemvalue="JUnit.All in automacao" />
+        <item itemvalue="JUnit.All in automacao (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02ce3086-a85a-4743-9f94-1229b92c7448" name="Default Changelist" comment="" />
+      <created>1552787514074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552787514074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Automacao - 2019.04.13 at 23h 44m 28s.xml">
+      <configuration name="Automacao" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Automacao - 2019.04.13 at 23h 49m 55s.xml">
+      <configuration name="Automacao" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Automacao - 2019.04.13 at 23h 53m 19s.xml">
+      <configuration name="Automacao" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Feature__Login - 2019.04.13 at 23h 55m 31s.xml">
+      <configuration name="Feature: Login" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_in_automacao - 2019.04.15 at 19h 32m 58s.xml">
+      <configuration name="All in automacao" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_automacao - 2019.04.15 at 19h 34m 11s.xml">
+      <configuration name="All in automacao" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_automacao - 2019.04.15 at 19h 35m 14s.xml">
+      <configuration name="All in automacao" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_automacao - 2019.04.15 at 19h 39m 15s.xml">
+      <configuration name="All in automacao" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_automacao - 2019.04.15 at 19h 42m 45s.xml">
+      <configuration name="All in automacao" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_automacao - 2019.04.15 at 19h 42m 55s.xml">
+      <configuration name="All in automacao" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="0" width="1255" height="742" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" x="513" y="98" width="340" height="611" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.30977815" />
+      <window_info id="Ant Build" order="1" sideWeight="0.49753696" weight="0.24897288" />
+      <window_info id="Maven" order="2" sideWeight="0.60065466" weight="0.24650781" />
+      <window_info id="Structure" order="3" sideWeight="0.50246304" side_tool="true" weight="0.24897288" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" sideWeight="0.50246304" side_tool="true" weight="0.24897288" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55500823" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3858785" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32840723" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" sideWeight="0.39934534" side_tool="true" visible="true" weight="0.22314675" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/drivers/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/automacao.iml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/navegador/SeleniumBrowsers.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/By.class" />
+    <entry file="file://$PROJECT_DIR$/propriedades/sistema">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.2.6/cucumber-core-4.2.6.jar!/cucumber/runtime/formatter/PluginFactory.class" />
+    <entry file="file://$PROJECT_DIR$/target/relatorio/relatorio.html" />
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/navegador/SeleniumDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/paginas/admin/PaginaCadastroCategoria.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/paginas/admin/PaginaCategorias.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/paginas/admin/PaginaLogin.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/passos/admin/Login.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/admin/CadastrarCategoria.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/passos/admin/Categorias.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/paginas/loja/PaginaHome.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/passos/loja/Home.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/loja/ComprarProduto.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/robo/Robo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/passos/loja/Clientes.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/loja/teste.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/paginas/loja/PaginaCadastroCliente.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/loja.Login.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/execucao/Automacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/loja/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/passos/loja/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <element signature="e#1074#1075#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/paginas/loja/PaginaLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>automacao</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

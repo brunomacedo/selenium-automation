@@ -1,0 +1,88 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 11,
+        "name": "Login valido",
+        "description": "",
+        "id": "logar-cliente;login-valido;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "o usuario acessou a pagina de login",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "digitar o email \"teste.cadastro@mailcatch.com\" e a senha \"123456\" no login",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Automacao"
+          },
+          {
+            "name": "@Loja"
+          },
+          {
+            "name": "@LoginLoja"
+          },
+          {
+            "name": "@JonatasKirsch"
+          }
+        ]
+      }
+    ],
+    "name": "Logar cliente",
+    "description": "  Loga um cliente no sistema",
+    "id": "logar-cliente",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/casos_de_testes/loja/Login.feature",
+    "tags": [
+      {
+        "name": "@Automacao",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@Loja",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 12
+        }
+      },
+      {
+        "name": "@LoginLoja",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 18
+        }
+      },
+      {
+        "name": "@JonatasKirsch",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 29
+        }
+      }
+    ]
+  }
+]
