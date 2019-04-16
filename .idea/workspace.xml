@@ -226,8 +226,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: CadastrarCliente (1)">
-    <configuration name="Feature: CadastrarCliente (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber java.Feature: CadastrarCliente">
+    <configuration name="Feature: CadastrarCliente" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true">
       <option name="CUCUMBER_CORE_VERSION" value="3" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature" />
       <option name="GLUE" value="passos.loja" />
@@ -308,9 +308,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: CadastrarCliente" />
+      <item itemvalue="Cucumber java.Feature: Login" />
+      <item itemvalue="JUnit.Automacao" />
+      <item itemvalue="JUnit.All in automacao" />
+      <item itemvalue="JUnit.All in automacao (1)" />
+      <item itemvalue="JUnit.casos_de_testes.loja in automacao" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Feature: CadastrarCliente (1)" />
+        <item itemvalue="Cucumber java.Feature: CadastrarCliente" />
         <item itemvalue="Cucumber java.Feature: Login" />
         <item itemvalue="JUnit.casos_de_testes.loja in automacao" />
         <item itemvalue="JUnit.All in automacao" />
