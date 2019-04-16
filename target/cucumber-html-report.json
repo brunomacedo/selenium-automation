@@ -40,7 +40,7 @@
             "name": "@LoginLoja"
           },
           {
-            "name": "@JonatasKirsch"
+            "name": "@BrunoMacedo"
           }
         ]
       }
@@ -76,7 +76,7 @@
         }
       },
       {
-        "name": "@JonatasKirsch",
+        "name": "@BrunoMacedo",
         "type": "Tag",
         "location": {
           "line": 1,

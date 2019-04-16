@@ -1,4 +1,4 @@
-@Automacao @Loja @LoginLoja @JonatasKirsch
+@Automacao @Loja @LoginLoja @BrunoMacedo
 Feature: Logar cliente
   Loga um cliente no sistema
 
