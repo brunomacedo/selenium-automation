@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02ce3086-a85a-4743-9f94-1229b92c7448" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastroCliente.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,17 +24,7 @@
     <favorites_list name="automacao" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastroCliente.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -128,32 +117,6 @@
             <path>
               <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
               <item name="automacao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automacao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automacao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automacao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automacao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="loja" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -339,16 +302,17 @@
       <option name="project" value="LOCAL" />
       <updated>1555377368672</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[FIX] file name">
+      <created>1555377556958</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555377556958</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_automacao - 2019.04.15 at 19h 39m 15s.xml">
-      <configuration name="All in automacao" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_automacao - 2019.04.15 at 19h 42m 45s.xml">
-      <configuration name="All in automacao" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_automacao - 2019.04.15 at 19h 42m 55s.xml">
       <configuration name="All in automacao" configurationId="JUnit" />
     </history-entry>
@@ -373,10 +337,15 @@
     <history-entry file="Feature__CadastrarCliente_(1) - 2019.04.15 at 22h 05m 38s.xml">
       <configuration name="Feature: CadastrarCliente (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="Feature__CadastrarCliente - 2019.04.15 at 22h 17m 25s.xml">
+      <configuration name="Feature: CadastrarCliente" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__CadastroCliente - 2019.04.15 at 22h 18m 21s.xml">
+      <configuration name="Feature: CadastroCliente" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="0" width="1255" height="742" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" x="513" y="98" width="340" height="611" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.25554642" />
       <window_info id="Structure" order="1" sideWeight="0.50246304" side_tool="true" weight="0.24897288" />
@@ -413,7 +382,8 @@
     <MESSAGE value="[FEAT] add editorconfig" />
     <MESSAGE value="[FEAT] add new feature" />
     <MESSAGE value="[FIX] add new feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="[FIX] add new feature" />
+    <MESSAGE value="[FIX] file name" />
+    <option name="LAST_COMMIT_MESSAGE" value="[FIX] file name" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
