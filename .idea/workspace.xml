@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02ce3086-a85a-4743-9f94-1229b92c7448" name="Default Changelist" comment="[FEAT] add editorconfig">
-      <change afterPath="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/passos/loja/CadastroCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+    <list default="true" id="02ce3086-a85a-4743-9f94-1229b92c7448" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/paginas/loja/PaginaLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/paginas/loja/PaginaLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastroCliente.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,10 +27,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature">
+        <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastroCliente.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="34">
+              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -86,9 +83,9 @@
         <option value="$PROJECT_DIR$/src/test/java/passos/loja/Login.java" />
         <option value="$PROJECT_DIR$/.editorconfig" />
         <option value="$PROJECT_DIR$/src/test/java/paginas/loja/PaginaLogin.java" />
-        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastroCliente.feature" />
         <option value="$PROJECT_DIR$/src/test/java/passos/loja/CadastroCliente.java" />
         <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastroCliente.feature" />
       </list>
     </option>
   </component>
@@ -158,22 +155,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="loja" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automacao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="loja" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automacao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automacao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="loja" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -226,10 +207,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: CadastrarCliente">
-    <configuration name="Feature: CadastrarCliente" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true">
+  <component name="RunManager" selected="Cucumber java.Feature: CadastroCliente">
+    <configuration name="Feature: CadastroCliente" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true">
       <option name="CUCUMBER_CORE_VERSION" value="3" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastroCliente.feature" />
       <option name="GLUE" value="passos.loja" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="automacao" />
@@ -309,7 +290,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Cucumber java.Feature: CadastrarCliente" />
+      <item itemvalue="Cucumber java.Feature: CadastroCliente" />
       <item itemvalue="Cucumber java.Feature: Login" />
       <item itemvalue="JUnit.Automacao" />
       <item itemvalue="JUnit.All in automacao" />
@@ -318,7 +299,7 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Feature: CadastrarCliente" />
+        <item itemvalue="Cucumber java.Feature: CadastroCliente" />
         <item itemvalue="Cucumber java.Feature: Login" />
         <item itemvalue="JUnit.casos_de_testes.loja in automacao" />
         <item itemvalue="JUnit.All in automacao" />
@@ -344,7 +325,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555370898685</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[FEAT] add new feature">
+      <created>1555377282985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555377282985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[FIX] add new feature">
+      <created>1555377368672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555377368672</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -416,7 +411,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="[FEAT] add editorconfig" />
-    <option name="LAST_COMMIT_MESSAGE" value="[FEAT] add editorconfig" />
+    <MESSAGE value="[FEAT] add new feature" />
+    <MESSAGE value="[FIX] add new feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="[FIX] add new feature" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -541,10 +538,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastrarCliente.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/casos_de_testes/loja/CadastroCliente.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>

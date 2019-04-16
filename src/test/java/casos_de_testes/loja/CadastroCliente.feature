@@ -1,6 +1,6 @@
 @Automacao @Loja @CadastroCliente @AndreMiranda @BrunoMacedo @CristinoWatanabe @FabioSantos @Pedro @Jomal
 
-Feature: Cadastrar cliente
+Feature: Cadastro cliente
   Cadastrar um cliente no sistema
 
   Scenario Outline: Cadastro valido
